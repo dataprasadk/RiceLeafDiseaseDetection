@@ -86,7 +86,4 @@ jupyter notebook
 
 ## 🙋‍♂️ Author
 
-**Prasad Kamble**  
-Email: [Your Email]  
-GitHub: [Your GitHub Profile]  
-LinkedIn: [Your LinkedIn]
+**Prasad Kamble** 
