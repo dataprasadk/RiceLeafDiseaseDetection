@@ -16,13 +16,7 @@ This project aims to build a classification model that can accurately identify:
 ```
 RiceLeafDiseaseDetection/
 │
-├── dataset/                   # Raw and processed image dataset
-├── rice_leaf_split/          # Split dataset (train/val/test folders)
-├── models/                   # Trained model files
-├── saved_models/             # SavedModel format for deployment
-├── notebooks/                # Jupyter Notebooks
-├── utils/                    # Helper scripts and functions
-├── predictions/              # Model predictions and outputs
+├── RiceLeaf_Project/                # Jupyter Notebooks
 ├── README.md
 ├── requirements.txt
 └── .gitignore
